@@ -103,6 +103,9 @@ img {
     margin-bottom: 2em;
     font-family: 'Montserrat', sans-serif;
 }
+.content__group {
+    padding: 1.5em 0;
+}
 .content__primary {
     background-color: #E6E6E6;
     width: 100%;
@@ -124,7 +127,7 @@ img {
 }
 .content__secondary--heading {
     color: #A59678;
-    margin-bottom: -0.75em;
+    margin: 1.5em 0 -0.75em 0;
     font-size: 2rem;
 }
 .content__aside {
@@ -155,7 +158,7 @@ img {
 }
 .footer__heading {
     color: #E6E6E6;
-    margin-bottom: 0;
+    margin: 1.5em 0 0.5em 0;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
 }
